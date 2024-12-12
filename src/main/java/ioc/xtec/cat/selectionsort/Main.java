@@ -44,6 +44,9 @@ public static void main(String[] args) {
         } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
         }
+        
+        System.out.println("Victor Miguel Forner: He après molt fent el mòdul 8"
+                + "de DAW encara que haigi estat dur!!");
 
         scanner.close();
     }
